@@ -17,6 +17,7 @@ Partial Class 複数検討作業処理ツール
     'Windows フォーム デザイナーで必要です。
     Private components As System.ComponentModel.IContainer
     'test
+    'test
     'メモ: 以下のプロシージャは Windows フォーム デザイナーで必要です。
     'Windows フォーム デザイナーを使用して変更できます。  
     'コード エディターを使って変更しないでください。
